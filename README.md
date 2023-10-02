@@ -1,19 +1,19 @@
-# Docker Getting Started Tutorial
+# Docker  Getting Started Tutorial
 
 This tutorial was written with the intent of helping folks get up and running
 with containers and is designed to work with Docker Desktop. While not going too much 
 into depth, it covers the following topics:
 
-- Running your first container
-- Building containers
-- Learning what containers are
-- Running and removing containers
-- Using volumes to persist data
-- Using bind mounts to support development
-- Using container networking to support multi-container applications
-- Using Docker Compose to simplify the definition and sharing of applications
-- Using image layer caching to speed up builds and reduce push/pull size
-- Using multi-stage builds to separate build-time and runtime dependencies
+- [x] Running your first container
+- [x] Building containers
+- [x] Learning what containers are
+- [x] Running and removing containers
+- [x] Using volumes to persist data
+- [x] Using bind mounts to support development
+- [x] Using container networking to support multi-container applications
+- [x] Using Docker Compose to simplify the definition and sharing of applications
+- [x] Using image layer caching to speed up builds and reduce push/pull size
+- [x] Using multi-stage builds to separate build-time and runtime dependencies
 
 ## Getting Started
 
